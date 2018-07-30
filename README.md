@@ -3,12 +3,7 @@
 
 CLI interface to automatically change you dekstop background by fetching images from flickr
 
-
-<<<<<<< HEAD
 optional arguments: -t update interval in hours (minutes between update/60), -tg (tag to search flickr with, 'goat' by default)
-=======
-optional arguments: -t update interval in hours (minutes between update/60), -tg (tag to search flickr with, 'animals' by default)
->>>>>>> c6c3a45eb3ff7bcb640f11f432c107a23a1419bd
 
 In order to run it in the background, you must call it with pythonw 
 

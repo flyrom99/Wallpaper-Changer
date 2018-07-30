@@ -1,7 +1,7 @@
-# Flickr-Wallpaper-Changer
-<b>CLI to automatically change desktop background using Flickr API on Windows</b>
+# Wallpaper-Changer
+<b>CLI to automatically change desktop background using Flickr/Unsplash API on Windows</b>
 
-CLI interface to automatically change you dekstop background by fetching images from flickr
+CLI interface to automatically change you dekstop background by fetching images from flickr/unsplash
 
 optional arguments: -t update interval in hours (minutes between update/60), -tg (tag to search flickr with, 'goat' by default)
 
